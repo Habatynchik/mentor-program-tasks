@@ -63,7 +63,6 @@ class Calculator {
             return a / b;
         }))
 
-
         return functionMap.get(op);
 
     }

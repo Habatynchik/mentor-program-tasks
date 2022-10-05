@@ -1,0 +1,6 @@
+.idea
+.gradle
+.build
+# Project exclude paths
+/block1/module4/build/
+/block1/module4/build/classes/groovy/main/
